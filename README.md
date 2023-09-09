@@ -1,5 +1,4 @@
 # Mask-Detection-Using-Image-Processing
-**Prediction of Animal Using Image Processing CNN (Convolutional Neural Network) with TensorFlow**
 
 This project involves the development of a Convolutional Neural Network (CNN) model for the prediction of mask based on image data. Leveraging the power of deep learning and image processing, this application is designed to accurately classify mask from images, making it a valuable tool for various applications.
 
